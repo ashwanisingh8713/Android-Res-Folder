@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="come_and_see_margin_top">30dp</dimen>
+    <dimen name="come_and_see_txt_size">35sp</dimen>
+
+</resources>
