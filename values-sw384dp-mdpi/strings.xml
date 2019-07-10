@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="type_device">sw320dp-xhdpi</string>
+    <string name="type_device">sw384dp-mdpi</string>
 
 </resources>
